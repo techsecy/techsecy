@@ -4,10 +4,7 @@
 - 🌱 I’m currently learning **Backend Technologies**
 - 👯 I’m looking to collaborate on **Backend Development**
 - 🤔 I’m looking for help with **Growth of The Business**
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: **I'm stubborn for learning new things
+- ⚡ Fun fact: Always ready to **Explore**
 
 # Let's Get Started
 
