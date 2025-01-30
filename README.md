@@ -1,10 +1,5 @@
 ## Hi there, I'm Ajay Kumar! 👋
 
-<!--
-**techsecy/techsecy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: --!>
-
 🔭 I’m currently working on **India Post**
 🌱 I’m currently learning **Backend Technologies**
 👯 I’m looking to collaborate on **Backend Development**
