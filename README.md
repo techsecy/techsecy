@@ -87,7 +87,7 @@ I'm also an **open-source enthusiast** who enjoys working with **Linux-based sys
 ## 📫 Let's Connect!
 
 🔗 **LinkedIn**: [Ajay Kumar](https://www.linkedin.com/in/your-profile)
-📧 **Email**: [your.email@example.com](mailto\:your.email@example.com)
+📧 **Email**: [Gmail](mailto\:ajay44193@gmail.com)
 💻 **Portfolio**: [Coming Soon!]
 
 ---
