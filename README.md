@@ -76,7 +76,7 @@ I am a computer science student pursuing a Bachelor of Computer Applications (BC
 
 <div align = "center">
   
-  ![snake gif](https://github.com/techsecy/techsecy/blob/output/github-snake.svg)
+  ![snake gif](https://github.com/techsecy/techsecy/blob/output/github-snake-dark.svg)
 </div>
 
 
