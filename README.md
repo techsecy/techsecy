@@ -1,15 +1,15 @@
 ## Hi there, I'm Ajay Kumar! 👋
 
-🔭 I’m currently working on **India Post**
-🌱 I’m currently learning **Backend Technologies**
-👯 I’m looking to collaborate on **Backend Development**
-🤔 I’m looking for help with **Growth of The Business**
-💬 Ask me about ...
-📫 How to reach me: ...
-😄 Pronouns: ...
-⚡ Fun fact: **I'm stubborn for learning new things
+- 🔭 I’m currently working on **India Post**
+- 🌱 I’m currently learning **Backend Technologies**
+- 👯 I’m looking to collaborate on **Backend Development**
+- 🤔 I’m looking for help with **Growth of The Business**
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: **I'm stubborn for learning new things
 
-# Hi there,
+# Let's Get Started
 
 🚀 **Backend Explorer |  Tech Enthusiast**
 
