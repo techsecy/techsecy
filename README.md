@@ -3,17 +3,16 @@
 <!--
 **techsecy/techsecy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: --!>
 
-- 🔭 I’m currently working on **India Post**
-- 🌱 I’m currently learning **Backend Technologies**
-- 👯 I’m looking to collaborate on **Backend Development**
-- 🤔 I’m looking for help with **Growth of The Business**
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: **I'm stubborn to learn new things
--->
+🔭 I’m currently working on **India Post**
+🌱 I’m currently learning **Backend Technologies**
+👯 I’m looking to collaborate on **Backend Development**
+🤔 I’m looking for help with **Growth of The Business**
+💬 Ask me about ...
+📫 How to reach me: ...
+😄 Pronouns: ...
+⚡ Fun fact: **I'm stubborn for learning new things
 
 # Hi there,
 
@@ -23,7 +22,7 @@ Here are some ideas to get you started:
 
 ## 🔥 About Me
 
-I'm a passionate **Backend Developer & Data Analyst** with a strong foundation in **Node.js, Express, MongoDB, Redis, and Docker**. My expertise extends to **building scalable web applications, integrating payment gateways, and designing efficient data pipelines**. I love exploring new technologies and constantly sharpening my skills in **Generative AI, Machine Learning, and Large Language Models (LLMs)**.
+I am a computer science student pursuing a Bachelor of Computer Applications (BCA) at Chandigarh University, driven by a passion for technology and a strong desire to learn. My journey began at the age of ten, exploring computer systems, and since then, I have developed skills in networking, cybersecurity, data analysis, and backend technologies. Now, I am excited to apply my knowledge and skills to excel as a Backend Developer.
 
 In addition to development, I have deep knowledge in **data analytics and visualization**, proficient in **Power BI, SQL, and Python (Pandas, NumPy, Seaborn, Matplotlib)**, enabling me to extract insights from complex datasets.
 
