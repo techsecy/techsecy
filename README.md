@@ -67,11 +67,6 @@ I am a computer science student pursuing a Bachelor of Computer Applications (BC
 - Developed with **Node.js, Express, MongoDB**
 - Includes **dynamic user feedback with input validation**
 
-### **🔹 Full Stack ToDo App**
-
-- Built using **React, Node.js, Express**
-- Integrated **backend APIs with robust data handling**
-
 ### **🔹 Data Analytics & Visualization**
 
 - **HR Analytics Dashboard, Sales Analytics Dashboard**
@@ -79,12 +74,6 @@ I am a computer science student pursuing a Bachelor of Computer Applications (BC
 
 ---
 
-## 💡 My Journey
-
-- 🏢 **Currently working as a Branch Post Master at India Post** – Managing digital services, system administration & troubleshooting.
-- 🎓 **BCA Student at Chandigarh University**
-
----
 <div align = "center">
   
   ![snake gif](https://github.com/techsecy/techsecy/blob/output/github-snake.svg)
