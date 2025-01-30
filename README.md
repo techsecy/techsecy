@@ -85,6 +85,11 @@ I am a computer science student pursuing a Bachelor of Computer Applications (BC
 - 🎓 **BCA Student at Chandigarh University**
 
 ---
+<div align = "center">
+  
+  ![snake gif](https://github.com/techsecy/techsecy/blob/output/github-snake.svg)
+</div>
+
 
 ## 📫 Let's Connect!
 
@@ -94,5 +99,7 @@ I am a computer science student pursuing a Bachelor of Computer Applications (BC
 ---
 
 Let's build something amazing together! 🚀
+
+
 
 
