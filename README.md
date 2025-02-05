@@ -55,25 +55,6 @@ I am a computer science student pursuing a Bachelor of Computer Applications (BC
 
 ---
 
-## 🚀 Projects & Experience
-
-### **🔹 SocialGrid - Social Media Backend**
-
-- Built using **Node.js, MongoDB, Redis, Docker**
-- Features **authentication, real-time notifications, scalable architecture**
-
-### **🔹 EventWise - Event Planning System**
-
-- Developed with **Node.js, Express, MongoDB**
-- Includes **dynamic user feedback with input validation**
-
-### **🔹 Data Analytics & Visualization**
-
-- **HR Analytics Dashboard, Sales Analytics Dashboard**
-- **Exploratory Data Analysis (Titanic Disaster, Netflix Dataset)**
-
----
-
 <div align = "center">
   
   ![snake gif](https://github.com/techsecy/techsecy/blob/output/github-snake-dark.svg)
