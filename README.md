@@ -1,6 +1,5 @@
 ## Hi there, I'm Ajay Kumar! 👋
 
-- 🔭 I’m currently working in **India Post**
 - 🌱 I’m currently learning **Backend Technologies**
 - 👯 I’m looking to collaborate on **Real-time Projects**
 - ⚡ Fun fact: Always ready to **Explore**
