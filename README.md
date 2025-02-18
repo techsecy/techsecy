@@ -62,7 +62,7 @@ I am a computer science student pursuing a Bachelor of Computer Applications (BC
 
 ## 📫 Let's Connect!
 
-🔗 **LinkedIn**: [Ajay Kumar](https://www.linkedin.com/in/your-profile)
+🔗 **LinkedIn**: [Ajay Kumar](https://www.linkedin.com/in/mrajay007)
 📧 **Email**: [Gmail](mailto\:ajay44193@gmail.com)
 
 ---
