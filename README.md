@@ -12,7 +12,7 @@
 
 ## 🔥 About Me
 
-I am a computer science student pursuing a Bachelor of Computer Applications (BCA) at Chandigarh University, driven by a passion for technology and a strong desire to learn.
+Backend Developer with 1+ years of experience, skilled in building quality web solutions, solving problems. Seeking a dynamic role to drive tech innovation and collaborate with top professionals.
 
 ---
 
